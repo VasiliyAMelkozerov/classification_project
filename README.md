@@ -78,16 +78,16 @@ this repository will house my research and reports for the classification exerci
 <hr style="border-top: 10px groove blueviolet; margin-top: 1px; margin-bottom: 1px"></hr>
 
 ##### Plan
-- [x] Create README.md with data dictionary, project and business goals, come up with initial hypotheses.
-- [x] Acquire data from the Codeup Database and create a function to automate this process. Save the function in an acquire.py file to import into the Final Report Notebook.
-- [x] Clean and prepare data for the first iteration through the pipeline, MVP preparation. Create a function to automate the process, store the function in a prepare.py module, and prepare data in Final Report Notebook by importing and using the funtion.
-- [x]  Clearly define two hypotheses, set an alpha, run the statistical tests needed, reject or fail to reject the Null Hypothesis, and document findings and takeaways.
-- [x] Establish a baseline accuracy and document well.
-- [x] Train three different classification models.
-- [x] Evaluate models on train and validate datasets.
-- [x] Choose the model with that performs the best and evaluate that single model on the test dataset.
-- [x] Create csv file with the measurement id, the probability of the target values, and the model's prediction for each observation in my test dataset.
-- [x] Document conclusions, takeaways, and next steps in the Final Report Notebook.
+- [ ] Create README.md with data dictionary, project and business goals, come up with initial hypotheses.
+- [ ] Acquire data from the Codeup Database and create a function to automate this process. Save the function in an acquire.py file to import into the Final Report Notebook.
+- [ ] Clean and prepare data for the first iteration through the pipeline, MVP preparation. Create a function to automate the process, store the function in a prepare.py module, and prepare data in Final Report Notebook by importing and using the funtion.
+- [ ]  Clearly define two hypotheses, set an alpha, run the statistical tests needed, reject or fail to reject the Null Hypothesis, and document findings and takeaways.
+- [ ] Establish a baseline accuracy and document well.
+- [ ] Train three different classification models.
+- [ ] Evaluate models on train and validate datasets.
+- [ ] Choose the model with that performs the best and evaluate that single model on the test dataset.
+- [ ] Create csv file with the measurement id, the probability of the target values, and the model's prediction for each observation in my test dataset.
+- [ ] Document conclusions, takeaways, and next steps in the Final Report Notebook.
 
 ___
 
@@ -138,7 +138,7 @@ ___
 <hr style="border-top: 10px groove blueviolet; margin-top: 1px; margin-bottom: 1px"></hr>
 
 You will need your own env file with database credentials along with all the necessary files listed below to run my final project notebook. 
-- [x] Read this README.md
+- [ ] Read this README.md
 - [ ] Download the aquire.py, prepare.py, and final_report.ipynb files into your working directory
 - [ ] Add your own env file to your directory. (user, password, host)
 - [ ] Run the final_report.ipynb notebook
